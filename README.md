@@ -5,33 +5,33 @@ It's designed to provide a seamless chatting experience, with features such as m
 user presence and typing indicators, and more. This project aims to showcase the integration of React 
 for the frontend, Node.js and Express for the backend, and WebSocket technology for real-time communication.
 
-**Live Demo**
+**Live Demo:**
 The ChatApp has been deployed and is available at https://chatterbox-boft.onrender.com/.
 
-**Features**
+**Features:**
 User Authentication: Secure login and signup functionality.
 Private and Group Chats: Users can create private chats or group chats.
 Real-Time Messaging: Instantly send and receive messages using WebSocket technology.
 Notifications: Receive notifications for new messages.
 User Presence: See which users are typing and online.
 
-**Technology Stack**
+**Technology Stack:**
 Frontend: React, Chakra UI
 Backend: Node.js, Express
 Database: MongoDB
 Real-Time Communication: Socket.IO
 Deployment: Render
 
-**Getting Started**
+**Getting Started:**
 These instructions will get you a copy of the project up and running on your local machine for 
 development and testing purposes.
 
-**Prerequisites**
+**Prerequisites:**
 Node.js
 npm or yarn
 MongoDB
 
-**Installation**
+**Installation:**
 1. Clone the repository:
       git clone https://github.com/yourusername/ChatApp.git
 2. Install NPM packages for the backend:
@@ -51,12 +51,12 @@ MongoDB
    
 The application should now be running on http://localhost:3000.
 
-**Usage**
+**Usage:**
 After logging in or signing up, users can start chatting by creating a new chat or joining an 
 existing one. Users can send messages, see when other users are typing, and receive notifications 
 for new messages.
 
-**Contributing**
+**Contributing:**
 Contributions are what make the open-source community such an amazing place to learn, inspire, 
 and create. Any contributions you make are greatly appreciated.
 
@@ -66,6 +66,6 @@ and create. Any contributions you make are greatly appreciated.
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-**Contact**
+**Contact:**
 Name: Md Ishraq Tanzim
 Email: mdishraqtanzim@cmail.carleton.ca
