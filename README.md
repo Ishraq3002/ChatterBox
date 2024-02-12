@@ -1,37 +1,39 @@
+# ChatApp
 **Developed By:** Md Ishraq Tanzim
 
+## Overview
 ChatApp is a real-time chat application that allows users to communicate in private or group chats. 
 It's designed to provide a seamless chatting experience, with features such as message notifications, 
 user presence and typing indicators, and more. This project aims to showcase the integration of React 
 for the frontend, Node.js and Express for the backend, and WebSocket technology for real-time communication.
 
-**Live Demo:**
+## Live Demo
 The ChatApp has been deployed and is available at https://chatterbox-boft.onrender.com/.
 
-**Features:**
-1. User Authentication: Secure login and signup functionality.
-2. Private and Group Chats: Users can create private chats or group chats.
-3. Real-Time Messaging: Instantly send and receive messages using WebSocket technology.
-4. Notifications: Receive notifications for new messages.
-5. User Presence: See which users are typing and online.
+## Features
+- **User Authentication:** Secure login and signup functionality.
+- **Private and Group Chats:** Users can create private chats or group chats.
+- **Real-Time Messaging:** Instantly send and receive messages using WebSocket technology.
+- **Notifications:** Receive notifications for new messages.
+- **User Presence:** See which users are typing and online.
 
-**Technology Stack:**
-1. Frontend: React, Chakra UI
-2. Backend: Node.js, Express
-3. Database: MongoDB
-4. Real-Time Communication: Socket.IO
-5. Deployment: Render
+## Technology Stack
+- **Frontend:** React, Chakra UI
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Real-Time Communication:** Socket.IO
+- **Deployment:** Render
 
-**Getting Started:**
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for 
 development and testing purposes.
 
-**Prerequisites:**
-1. Node.js
-2. npm or yarn
-3. MongoDB
+## Prerequisites
+- Node.js
+- npm or yarn
+- MongoDB
 
-**Installation:**
+## Installation
 1. Clone the repository:
       `git clone https://github.com/Ishraq3002/ChatterBox.git`
 2. Install NPM packages for the backend:
@@ -51,12 +53,12 @@ development and testing purposes.
    
 The application should now be running on http://localhost:3000.
 
-**Usage:**
+## Usage
 After logging in or signing up, users can start chatting by creating a new chat or joining an 
 existing one. Users can send messages, see when other users are typing, and receive notifications 
 for new messages.
 
-**Contributing:**
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, 
 and create. Any contributions you make are greatly appreciated.
 
@@ -66,6 +68,6 @@ and create. Any contributions you make are greatly appreciated.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-**Contact:**<br />
-Name: Md Ishraq Tanzim<br />
-Email: mdishraqtanzim@cmail.carleton.ca
+## Contact<br />
+**Name:** Md Ishraq Tanzim<br />
+**Email:** mdishraqtanzim@cmail.carleton.ca
