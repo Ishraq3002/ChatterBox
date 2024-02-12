@@ -33,7 +33,7 @@ MongoDB
 
 **Installation:**
 1. Clone the repository:
-      git clone https://github.com/yourusername/ChatApp.git
+      git clone https://github.com/Ishraq3002/ChatterBox.git
 2. Install NPM packages for the backend:
       cd ChatApp
       npm install
